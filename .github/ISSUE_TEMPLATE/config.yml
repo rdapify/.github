@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/rdapify/RDAPify/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📚 Documentation
+    url: https://rdapify.com/docs
+    about: Read the full documentation
+  - name: 🔒 Security Issue
+    url: mailto:security@rdapify.com
+    about: Report a security vulnerability privately
+  - name: 💼 Enterprise Support
+    url: mailto:enterprise@rdapify.com
+    about: Contact us for enterprise support and consulting

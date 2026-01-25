@@ -36,6 +36,7 @@ RDAPify is a **unified, enterprise-grade RDAP client** that makes querying domai
 
 ```bash
 npm install rdapify
+
 ```
 
 ```typescript

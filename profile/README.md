@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 RDAPify
+<img src="https://raw.githubusercontent.com/rdapify/RDAPify/main/website/static/img/logo-512.png" alt="RDAPify" width="100" />
 
 ### Modern, Secure, and Lightning-Fast RDAP Client
 
@@ -36,7 +36,6 @@ RDAPify is a **unified, enterprise-grade RDAP client** that makes querying domai
 
 ```bash
 npm install rdapify
-
 ```
 
 ```typescript
